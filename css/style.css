@@ -537,4 +537,7 @@ footer .footer_container .box {
   justify-content: center;
   gap: 1rem;
 }
+  header .flex ul{
+    top: 9rem;
+  }
 }
